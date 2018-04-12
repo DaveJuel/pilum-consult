@@ -39,19 +39,19 @@ ob_start();
                         <div class="col-md-3 col-sm-3">
                             <div class="contact-item">
                                 <i class="glyphicon glyphicon-map-marker"></i>
-                                <h6>Nairobi - Kenya</h6>
+                                <h6>Kigali - Rwanda</h6>
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-4">
                             <div class="contact-item">
                                 <i class="glyphicon glyphicon-phone-alt"></i>
-                                <h6>+254 713 536397</h6>
+                                <h6>+250 787 550 669</h6>
                             </div>
                         </div>
                         <div class="col-md-5 col-sm-5">
                             <div class="contact-item">
                                 <i class="fa fa-envelope"></i>
-                                <h6>globalcons.partners@gmail.com</h6>
+                                <h6>ndabarasayvan@gmail.com</h6>
                             </div>
                         </div>
                     </div>
